@@ -21,7 +21,6 @@ export const metadata: Metadata = {
   title: "Justin Ian Aldevera - Full-Stack Developer & Computer Engineer",
   description:
     "Portfolio of Justin Ian Aldevera, a Computer Engineering student from Cebu City specializing in full-stack development, web applications, and innovative solutions.",
-  generator: "v0.dev",
 }
 
 export default function RootLayout({
